@@ -1,5 +1,6 @@
 ### 🐱 Hi , I'm Kat!
 - 🤓 I’m a pharmacist turned software engineer
+- 🌱 I mainly write in Python, but would love to expand my languages!
 - 🔭 I am interested in travelling, hiking and star-gazing
 - 📫 Please connect with me on [LinkedIn](https://www.linkedin.com/in/jiangkatherine/)
 
