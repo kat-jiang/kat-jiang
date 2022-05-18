@@ -1,4 +1,4 @@
-### 🐱 Hi , I'm Kat!
+### 🐱 Hello World, I'm Kat!
 - 🤓 I’m a pharmacist turned software engineer
 - 🌱 I mainly write in Python and JS, but would love to expand my languages!
 - 🔭 I am interested in travelling, hiking and star-gazing
